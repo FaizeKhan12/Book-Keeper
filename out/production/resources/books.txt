@@ -1,0 +1,8 @@
+Geeks Publishing, Inc.
+Name                           Author          Pub Yr Pages ISBN          URL
+------------------------------ --------------- ------ ----- ------------- -------
+Assimilating RubyMine          Dave Jones        2013    66 1849698767    https://www.biblio.com/1849698767 (Links to an external site.)
+Kotlin Programming: The Big Ne Josh Skeen        2018   384 0135161630    https://www.biblio.com/0135161630 (Links to an external site.)
+Kotlin In-Depth [Vol-I]: A Com Aleksei Sedunov   2020   338 9389328586    https://www.biblio.com/9389328586 (Links to an external site.)
+Kotlin in Action               Dmitry Jemerov    2017   360 1617293296    https://www.biblio.com/1617293296 (Links to an external site.)
+Learning React Native: Buildin Bonnie Eisenman   2017   242 1491989149    https://www.biblio.com/1491989149 (Links to an external site.)
